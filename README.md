@@ -17,15 +17,15 @@ The VigilanceAI project is structured to provide a modular and maintainable code
 - Lucide Icons
 
 ## Installation
-\`\`\`bash
+```bash
 npm install
 npm run dev
-\`\`\`
+```
 
 ## Build for Production
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ## Display Specifications
 - Resolution: 1920x1080px
